@@ -1,4 +1,7 @@
 # ODIGAJI_TeamProject
+![오디가지메인](https://github.com/ES1230/TheNorthFace-_html/assets/153258776/c2ed1396-d32b-4524-9ebc-cf285578f4cd)
+
+![screencapture-localhost-8087-odi-project-mainPage-bo-2024-03-11-19_17_24](https://github.com/ES1230/TheNorthFace-_html/assets/153258776/14790552-ec45-4f6f-996b-0136f30704c9)
 
 **오디가지 사이트**
 
@@ -24,3 +27,7 @@
   - 실시간 채팅 기능
   - 자유게시판과 채팅을 통한 회원 간 소통 공간 마련
  
+** 기술스택
+ - 프론트엔드: HTML, JavaScript
+ - 백엔드: Java , servlet, JSP
+ - 데이터베이스: Oracle , MyBatis
