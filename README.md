@@ -31,3 +31,7 @@
  - 프론트엔드: HTML, JavaScript
  - 백엔드: Java , servlet, JSP
  - 데이터베이스: Oracle , MyBatis
+    
+ ### 🔧  ERD
+ 
+ ![오디가지](https://github.com/ES1230/MangoBoard-React/assets/153258776/79825de8-4da7-4faf-9a48-87a3931f9887)
